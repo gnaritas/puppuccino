@@ -1,0 +1,8 @@
+{
+  "name": "puppuccino",
+  "version": "1.0.0",
+  "description": "Puppuccino — custom puppuccino bar + pet shop, 5802 E Sprague Ave, Spokane Valley WA (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
